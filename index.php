@@ -3,9 +3,9 @@
 <body>
 
 <?php
-echo "My first PHP script!";
-echo "changes from harish!";
-echo "2nd changes from harish!";
+echo "My first PHP script!<br>";
+echo "changes from harish!<br>";
+echo "2nd changes from harish!<br>";
 ?>
 
 </body>
